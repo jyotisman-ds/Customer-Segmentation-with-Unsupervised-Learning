@@ -27,4 +27,4 @@ This repo covers an unsupervised learning problem in finance. It leverages credi
 
 ## Credits
 
-I am deeply thankful to Udemy and all the instructors for hosting this wonderful course for [machine learning in Finance](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/). 
+I am deeply thankful to Udemy and all the instructors for hosting this wonderful course for [machine learning in Finance](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/). My curiosity to learn Machine Learning/deep learning applications led me to this course and I am glad not only to have learnt some useful techniques but also a great deal about the world of finance in general.
