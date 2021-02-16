@@ -17,7 +17,7 @@ This repo covers an unsupervised learning problem in finance. It leverages credi
 
 ## Technical Details
 
-- The details are in the [notebook](https://github.com/jyotisman-ds/Customer-Segmentation-with-Unsupervised-Learning/blob/main/Performing_Customer_Segmentation.ipynb). Techniques employed include clustering techniques like (*Kmeans*) and dimensionality reduction techniques like Principal Component Analysis ((*PCA*)) and (*Autoencoders*). The dataset consists of around 9000 observations with 18 different features.
+- The details are in the [notebook](https://github.com/jyotisman-ds/Customer-Segmentation-with-Unsupervised-Learning/blob/main/Performing_Customer_Segmentation.ipynb). Techniques employed include clustering techniques like *KMeans* and dimensionality reduction techniques like Principal Component Analysis (*PCA*) and *Autoencoders*. The dataset consists of around 9000 observations with 18 different features.
 - Extensive use of visualizations to explore the dataset. One thing that gets immediately clear is that most variables have a narrow spread of values with a few that stand out as a clear differentiator, for example 'PURCHASES_FREQUENCY'.
 - Not to say that the other variables are not predictive, but the clustering might create imbalances in the explicit counts in each category. This is what we actually see as well.
 - Coming to the technical aspects of the unsupervised learning, We use the elbow technique to find the optimal clusters needed. We do it manually as well as use the 'KElbowVisulaizer' from yellowbrick.
