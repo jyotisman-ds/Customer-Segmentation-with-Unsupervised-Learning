@@ -25,6 +25,9 @@ This repo covers an unsupervised learning problem in finance. It leverages credi
 - We use PCA mostly for demonstration purposes and also to visualize the clusters if at all a 2-component formulation of the problem was possible.
 - We also use deep learning mostly as a dimensionality reduction technique. We employ a simple autoencoder using only dense layers to encode a 10 dimensional representation of the dataset. This is followed by a second KMeans on this reduced dataset and we now end up with 5 clusters as opposed to 5 previously.
 
+_Tools : python, sklearn, TensorFlow, Keras, pandas, seaborn_
+
+
 ## Credits
 
 I am deeply thankful to Udemy and all the instructors for hosting this wonderful course for [machine learning in Finance](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/). My curiosity to learn Machine Learning/deep learning applications led me to this course and I am glad not only to have learnt some useful techniques but also a great deal about the world of finance in general.
